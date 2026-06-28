@@ -2,7 +2,7 @@
 
 ## Dashboard Preview
 
-![Dashboard 1](DashboardTableau.jpeg)
+![Dashboard](DashboardTableau.jpeg)
 
 ![Dashboard 2](DashboardTableau2.jpeg)
 
