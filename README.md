@@ -2,9 +2,7 @@
 
 ## Dashboard Preview
 
-![Dashboard](DashboardTableau.jpeg)
-
-![Dashboard 2](DashboardTableau2.jpeg)
+![Dashboard 1](DashboaardTableau.jpeg)
 
 
 ## Project Overview
